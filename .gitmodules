@@ -1,6 +1,6 @@
 [submodule "guessing_game"]
 	path = guessing_game
-	url = https://github.com/rapassos/learn-Rust-guessing_game
+	url = https://gitlab.com/rapassos/learn-rust-guessing_game
 [submodule "hello_cargo"]
 	path = hello_cargo
 	url = https://github.com/rapassos/learn-Rust-hello_cargo
