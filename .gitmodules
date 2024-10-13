@@ -1,6 +1,3 @@
-[submodule "hello_cargo"]
-	path = hello_cargo
-	url = https://github.com/rapassos/learn-Rust-hello_cargo
 [submodule "variables"]
 	path = variables
 	url = https://github.com/rapassos/learn-Rust-variables
