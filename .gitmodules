@@ -1,3 +1,0 @@
-[submodule "variables"]
-	path = variables
-	url = https://github.com/rapassos/learn-Rust-variables
